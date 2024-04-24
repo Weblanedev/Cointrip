@@ -38,7 +38,7 @@ const ProductsPage = ({
       <section className="flex relative overflow-hidden bg-blue-400/30 flex-col-reverse md:flex-row h-[90vh] md:h-[55vh] px-10 md:px-[130px] items-center justify-center md:justify-between gap-5 border-b border-orange-900/10">
         <div className=" text-black flex flex-col gap-9 md:gap-12 items-center justify-center md:items-start">
           <h1 className="font-medium md:font-semibold text-[50px] sm:text-[40px] md:text-[50px] md:text-left w-full md:w-[530px] leading-snug md:leading-[62px] text-center text-orange-950">
-            Find the right E-Book for You
+            Find the right Service for You
           </h1>
 
           <p className="text-center md:text-left mt-[-30px] w-[450px] md:w-[330px] text-orange-950">
@@ -57,9 +57,9 @@ const ProductsPage = ({
         </div>
 
         <img
-          src="https://149502452.v2.pressablecdn.com/wp-content/uploads/2021/05/the-best-startup-books.jpg"
+          src="https://th.bing.com/th/id/OIP.B5ni-Id2GVcGO9MipXkxNQHaE8?rs=1&pid=ImgDetMain"
           alt=""
-          className="w-full h-[300px] opacity-0 md:h-[300px] md:w-[500px] object-cover rounded-full shadow-lg"
+          className="https://th.bing.com/th/id/OIP.B5ni-Id2GVcGO9MipXkxNQHaE8?rs=1&pid=ImgDetMain"
         />
         <img
           src="https://149502452.v2.pressablecdn.com/wp-content/uploads/2021/05/the-best-startup-books.jpg"
