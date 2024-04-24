@@ -164,7 +164,7 @@ const Contact = () => {
               <h4 className="text-[24px] leading-[24px] font-medium">
                 Call Us
               </h4>
-              <p className="text-orange-500 leading-[16px]">
+              <p className="text-blue-500 leading-[16px]">
                 +234 908-398-9079
               </p>
             </div>
@@ -175,7 +175,7 @@ const Contact = () => {
               <h4 className="text-[24px] leading-[24px] font-medium">
                 Mail Us
               </h4>
-              <p className="text-orange-500 leading-[16px]">
+              <p className="text-blue-500 leading-[16px]">
               support@cointriptech.com
               </p>
             </div>
@@ -186,8 +186,8 @@ const Contact = () => {
               <h4 className="text-[24px] leading-[24px] font-medium">
                 Address
               </h4>
-              <p className="text-orange-500 leading-normal">
-                Lagos, Nigeira
+              <p className="text-blue-500 leading-normal">
+ 20 Kayode Taiwo, off PSSDC Road, Magodo GRA, Ketu, Lagos
               </p>
             </div>
           </div>
