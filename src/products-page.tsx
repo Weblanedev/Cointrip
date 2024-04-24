@@ -59,10 +59,10 @@ const ProductsPage = ({
         <img
           src="https://th.bing.com/th/id/OIP.B5ni-Id2GVcGO9MipXkxNQHaE8?rs=1&pid=ImgDetMain"
           alt=""
-          className="https://th.bing.com/th/id/OIP.B5ni-Id2GVcGO9MipXkxNQHaE8?rs=1&pid=ImgDetMain"
+          className="w-full h-[300px] opacity-0 md:h-[300px] md:w-[500px] object-cover rounded-full shadow-lg"
         />
         <img
-          src="https://149502452.v2.pressablecdn.com/wp-content/uploads/2021/05/the-best-startup-books.jpg"
+          src="https://th.bing.com/th/id/OIP.B5ni-Id2GVcGO9MipXkxNQHaE8?rs=1&pid=ImgDetMain"
           alt=""
           className="w-full h-[750px] -top-96 md:top-auto absolute md:-right-20 md:h-[700px] md:w-[700px] object-cover rounded-full shadow-lg"
         />
